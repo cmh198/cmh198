@@ -1,5 +1,5 @@
->Hi, I'm developer majoring in Computer Engineering at Ajou University.
-    >- I'm currently interested in ```Game Development``` and Application Development.
+Hi, I'm developer majoring in Computer Engineering at Ajou University.
+- I'm currently interested in ```Game Development``` and Application Development.
 
 <!--
 **cmh198/cmh198** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
